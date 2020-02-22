@@ -1,0 +1,8 @@
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+
+jar{
+    baseName = 'microservices.composition.bpmn.domain'
+    version =  '0.1.0'
+}
